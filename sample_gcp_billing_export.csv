@@ -1,0 +1,169 @@
+billing_account_id,service/description,sku/description,usage_start_time,usage/amount,cost,currency,location/region
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-01 00:00:00,1.0,0.0503,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-01 01:00:00,1.0,0.1739,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-01 02:00:00,1.0,0.5108,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-01 03:00:00,1.0,0.5317,USD,asia-south1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-01 04:00:00,1.0,0.0571,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-01 05:00:00,1.0,0.0511,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-01 06:00:00,1.0,0.1783,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-01 07:00:00,1.0,0.5085,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-01 08:00:00,1.0,0.533,USD,us-east1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-01 09:00:00,1.0,0.0564,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-01 10:00:00,1.0,0.0481,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-01 11:00:00,1.0,0.1776,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-01 12:00:00,1.0,0.507,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-01 13:00:00,1.0,0.5311,USD,us-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-01 14:00:00,1.0,0.0538,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-01 15:00:00,1.0,0.0508,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-01 16:00:00,1.0,0.1715,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-01 17:00:00,1.0,0.5094,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-01 18:00:00,1.0,0.5283,USD,europe-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-01 19:00:00,1.0,0.0572,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-01 20:00:00,1.0,0.0421,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-01 21:00:00,1.0,0.177,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-01 22:00:00,1.0,0.5134,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-01 23:00:00,1.0,0.5291,USD,asia-south1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-02 00:00:00,1.0,0.0599,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-02 01:00:00,1.0,0.0419,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-02 02:00:00,1.0,0.1716,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-02 03:00:00,1.0,0.5042,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-02 04:00:00,1.0,0.528,USD,us-east1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-02 05:00:00,1.0,0.0559,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-02 06:00:00,1.0,0.0424,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-02 07:00:00,1.0,0.1769,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-02 08:00:00,1.0,0.5057,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-02 09:00:00,1.0,0.529,USD,us-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-02 10:00:00,1.0,0.0553,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-02 11:00:00,1.0,0.0433,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-02 12:00:00,1.0,0.1731,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-02 13:00:00,1.0,0.5047,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-02 14:00:00,1.0,0.531,USD,europe-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-02 15:00:00,1.0,0.0507,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-02 16:00:00,1.0,0.0454,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-02 17:00:00,1.0,0.1757,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-02 18:00:00,1.0,0.5056,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-02 19:00:00,1.0,0.5308,USD,asia-south1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-02 20:00:00,1.0,0.0509,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-02 21:00:00,1.0,0.0476,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-02 22:00:00,1.0,0.1713,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-02 23:00:00,1.0,0.5122,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-03 00:00:00,1.0,0.5294,USD,us-east1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-03 01:00:00,1.0,0.0574,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-03 02:00:00,1.0,0.0501,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-03 03:00:00,1.0,0.1762,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-03 04:00:00,1.0,0.5084,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-03 05:00:00,1.0,0.5352,USD,us-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-03 06:00:00,1.0,0.0545,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-03 07:00:00,1.0,0.0509,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-03 08:00:00,1.0,0.1763,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-03 09:00:00,1.0,0.5122,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-03 10:00:00,1.0,0.5269,USD,europe-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-03 11:00:00,1.0,0.0586,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-03 12:00:00,1.0,0.0463,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-03 13:00:00,1.0,0.1765,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-03 14:00:00,1.0,0.5072,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-03 15:00:00,1.0,0.5281,USD,asia-south1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-03 16:00:00,1.0,0.0527,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-03 17:00:00,1.0,0.0446,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-03 18:00:00,1.0,0.1774,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-03 19:00:00,1.0,0.5063,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-03 20:00:00,1.0,0.5294,USD,us-east1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-03 21:00:00,1.0,0.0504,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-03 22:00:00,1.0,0.042,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-03 23:00:00,1.0,0.1772,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-04 00:00:00,1.0,0.5075,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-04 01:00:00,1.0,0.527,USD,us-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-04 02:00:00,1.0,0.0581,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-04 03:00:00,1.0,0.0478,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-04 04:00:00,1.0,0.1732,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-04 05:00:00,1.0,0.5042,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-04 06:00:00,1.0,0.5345,USD,europe-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-04 07:00:00,1.0,0.0592,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-04 08:00:00,1.0,0.0509,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-04 09:00:00,1.0,0.1762,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-04 10:00:00,1.0,0.51,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-04 11:00:00,1.0,0.5321,USD,asia-south1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-04 12:00:00,1.0,0.0547,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-04 13:00:00,1.0,0.0479,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-04 14:00:00,1.0,0.1704,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-04 15:00:00,1.0,0.5126,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-04 16:00:00,1.0,0.5318,USD,us-east1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-04 17:00:00,1.0,0.0593,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-04 18:00:00,1.0,0.0432,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-04 19:00:00,1.0,0.1706,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-04 20:00:00,1.0,0.5049,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-04 21:00:00,1.0,0.5344,USD,us-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-04 22:00:00,1.0,0.0588,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-04 23:00:00,1.0,0.042,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-05 00:00:00,1.0,0.1766,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-05 01:00:00,1.0,0.5099,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-05 02:00:00,1.0,0.5319,USD,europe-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-05 03:00:00,1.0,0.0594,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-05 04:00:00,1.0,0.0468,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-05 05:00:00,1.0,0.1753,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-05 06:00:00,1.0,0.5105,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-05 07:00:00,1.0,0.5338,USD,asia-south1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-05 08:00:00,1.0,0.0573,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-05 09:00:00,1.0,0.0497,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-05 10:00:00,1.0,0.1704,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-05 11:00:00,1.0,0.5064,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-05 12:00:00,1.0,0.5298,USD,us-east1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-05 13:00:00,1.0,0.0504,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-05 14:00:00,1.0,0.0423,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-05 15:00:00,1.0,0.1718,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-05 16:00:00,1.0,0.5128,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-05 17:00:00,1.0,0.5289,USD,us-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-05 18:00:00,1.0,0.0549,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-05 19:00:00,1.0,0.0461,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-05 20:00:00,1.0,0.1731,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-05 21:00:00,1.0,0.5067,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-05 22:00:00,1.0,0.5327,USD,europe-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-05 23:00:00,1.0,0.0531,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-06 00:00:00,1.0,0.0458,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-06 01:00:00,1.0,0.1723,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-06 02:00:00,1.0,0.5129,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-06 03:00:00,1.0,0.5353,USD,asia-south1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-06 04:00:00,1.0,0.0519,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-06 05:00:00,1.0,0.0466,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-06 06:00:00,1.0,0.176,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-06 07:00:00,1.0,0.5083,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-06 08:00:00,1.0,0.5314,USD,us-east1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-06 09:00:00,1.0,0.0528,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-06 10:00:00,1.0,0.0486,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-06 11:00:00,1.0,0.1752,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-06 12:00:00,1.0,0.5066,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-06 13:00:00,1.0,0.5275,USD,us-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-06 14:00:00,1.0,0.0557,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-06 15:00:00,1.0,0.0465,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-06 16:00:00,1.0,0.1715,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-06 17:00:00,1.0,0.5053,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-06 18:00:00,1.0,0.5268,USD,europe-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-06 19:00:00,1.0,0.058,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-06 20:00:00,1.0,0.0438,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-06 21:00:00,1.0,0.1707,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-06 22:00:00,1.0,0.5057,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-06 23:00:00,1.0,0.5272,USD,asia-south1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-07 00:00:00,1.0,0.0517,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-07 01:00:00,1.0,0.0493,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-07 02:00:00,1.0,0.1767,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-07 03:00:00,1.0,0.5101,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-07 04:00:00,1.0,0.5342,USD,us-east1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-07 05:00:00,1.0,0.0529,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-07 06:00:00,1.0,0.0479,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-07 07:00:00,1.0,0.1774,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-07 08:00:00,1.0,0.5052,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-07 09:00:00,1.0,0.5296,USD,us-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-07 10:00:00,1.0,0.052,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-07 11:00:00,1.0,0.0451,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-07 12:00:00,1.0,0.1759,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-07 13:00:00,1.0,0.5054,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-07 14:00:00,1.0,0.5304,USD,europe-west1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-07 15:00:00,1.0,0.054,USD,asia-south1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-07 16:00:00,1.0,0.0441,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-07 17:00:00,1.0,0.1788,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-07 18:00:00,1.0,0.5085,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N1 High-GPU 4 vCPU + NVIDIA T4,2026-09-07 19:00:00,1.0,0.5313,USD,asia-south1
+012345-ABCDEF-678901,Cloud Storage,Cloud Storage Standard Class,2026-09-07 20:00:00,1.0,0.0533,USD,us-east1
+012345-ABCDEF-678901,Compute Engine,N2 Standard 2 Core,2026-09-07 21:00:00,1.0,0.0446,USD,us-west1
+012345-ABCDEF-678901,Compute Engine,C2 Compute Optimized 4 vCPU,2026-09-07 22:00:00,1.0,0.1756,USD,europe-west1
+012345-ABCDEF-678901,Compute Engine,N2 Memory Optimized 8 vCPU,2026-09-07 23:00:00,1.0,0.5077,USD,asia-south1

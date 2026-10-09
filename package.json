@@ -1,0 +1,17 @@
+{
+  "name": "ecofinops-ai-nitro-gateway",
+  "version": "3.0.0",
+  "description": "EcoFinOps AI Model Context Protocol Server Gateway for NitroCloud",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "express": "^4.19.2",
+    "zod": "^3.25.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

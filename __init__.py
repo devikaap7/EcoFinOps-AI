@@ -1,0 +1,1 @@
+# EcoFinOps AI Core Package
